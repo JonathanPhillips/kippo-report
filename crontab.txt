@@ -1,0 +1,2 @@
+
+0 6 * * * /opt/kippo/kippo-sessions.sh | mail -s "Daily Kippo Report" email@domain.com
