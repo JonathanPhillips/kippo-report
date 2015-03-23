@@ -9,7 +9,7 @@ SESSION_ID="0"  # I've never seen a Kippo logfile with multiple IDs, if I'm wron
 REPORT_FILE=`/bin/mktemp`
 
 #Number of days worth of sessions to list.
-DAYS=30
+DAYS=1
 
 ECHO="/bin/echo -e"
 FILE="/usr/bin/file"
